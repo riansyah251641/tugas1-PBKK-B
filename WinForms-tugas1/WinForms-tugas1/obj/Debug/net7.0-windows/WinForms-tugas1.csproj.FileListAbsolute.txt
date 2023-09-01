@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\bin\Debug\net7.0-windows\WinForms-tugas1.exe
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\bin\Debug\net7.0-windows\WinForms-tugas1.deps.json
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\bin\Debug\net7.0-windows\WinForms-tugas1.runtimeconfig.json
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\bin\Debug\net7.0-windows\WinForms-tugas1.dll
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\bin\Debug\net7.0-windows\WinForms-tugas1.pdb
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms_tugas1.Form1.resources
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.dll
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\refint\WinForms-tugas1.dll
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.pdb
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\WinForms-tugas1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\WinForms-tugas1\WinForms-tugas1\obj\Debug\net7.0-windows\ref\WinForms-tugas1.dll
